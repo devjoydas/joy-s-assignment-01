@@ -176,3 +176,16 @@ header nav h3{
     object-fit: cover;
 }
 
+
+/* focus section */
+.focus{
+  background-color: #FFFFFF;
+}
+.focus-image{
+  border-radius: 48px;
+  padding: 20px;
+  border: none;
+}
+
+
+
