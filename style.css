@@ -188,4 +188,30 @@ header nav h3{
 }
 
 
+/* touch section style */
+.touch{
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  margin: 100px 100px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  
+
+}
+.tocus-tittl{
+  font-weight: bold;
+  font-size: 80px;
+  color: #000000;
+}
+.form-section{
+  height: 64px;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  display: block;
+  width: 100%;
+  margin-bottom: 40px;
+  border:none ;
+
+}
 
