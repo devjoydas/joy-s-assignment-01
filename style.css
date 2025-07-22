@@ -215,3 +215,33 @@ header nav h3{
 
 }
 
+
+/* footer section style */
+.footer-section{
+  margin: 100px 400px;
+
+}
+.footer-tittle{
+  font-weight: bold;
+  font-size: 100px;
+  color: #4E47FF;
+}
+.contant-description{
+  padding-top: 0px;
+  color: #8987A1;
+}
+.link-style{
+  list-style: none;
+  text-decoration: none;
+  color: #8987A1;
+}
+.footer-items{
+  display:flex ;
+  justify-content: space-around;
+  color: #8987A1;
+}
+
+.footer-span{
+    
+    color: chocolate;
+}
